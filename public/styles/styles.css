@@ -1,0 +1,27 @@
+.caroselOne{
+    color: #FFFADD;
+    font-weight: 200;
+}
+.caroselTwo{
+    color: #22668D;
+    font-weight: 600;
+}
+
+.logo{
+    height: 50px;
+    width: 30%;
+}
+.deco{
+    text-decoration: none;
+}
+
+.profile{
+    border-radius: 50%;
+}
+
+.header{
+    font-family: 'PT Serif', serif;
+    font-size: 35px;
+}
+
+

@@ -1,0 +1,14 @@
+body{
+    padding: 0;
+    margin: 0;
+    background-image: url("/images/error.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.deco{
+    text-decoration: none;
+}
+
+
+
